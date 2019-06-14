@@ -1,0 +1,55 @@
+{
+    "css.validate": false,
+    "editor.fontFamily": "Menlo, Consolas, 'DejaVu Sans Mono', monospace",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "editor.parameterHints": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.roundedSelection": false,
+    "editor.wordWrap": "on",
+    "explorer.openEditors.visible": 0,
+    "go.formatTool": "goimports",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": ["--fast"],
+    "html.format.wrapLineLength": 0,
+    "problems.decorations.enabled": true,
+    "scss.validate": false,
+    "stylelint.enable": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333",
+        "statusBar.border": "#444"
+    },
+    "workbench.startupEditor": "none",
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+    },
+    "eslint.alwaysShowStatus": true,
+    "files.trimTrailingWhitespace": true,
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Monokai ST3",
+    "workbench.editor.enablePreview": false,
+    "[sql]": {},
+    "extensions.ignoreRecommendations": false,
+    "files.exclude": {
+        "**/*.pyc": true,
+    },
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 120,
+    "prettier.semi": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "standard.autoFixOnSave": true,
+    "python.jediEnabled": false,
+    "editor.largeFileOptimizations": false
+}

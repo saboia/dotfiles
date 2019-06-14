@@ -1,0 +1,2 @@
+# problema de renderizacao da fonte no monitor antigo
+defaults write com.microsoft.VSCode.helper CGFontRenderingFontSmoothingDisabled -bool NO
